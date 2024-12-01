@@ -1,7 +1,7 @@
 ### Kshitij Anand, Doctoral Candiate, MAE, UCI
-[Personal Website](https://sites.google.com/view/kshitijananduci/about)
-[ADCL - Professor Haithem Taha's Lab](https://taha.eng.uci.edu/)
-Email: kshita1@uci.edu
+- [Personal Website](https://sites.google.com/view/kshitijananduci/about)
+- [ADCL - Professor Haithem Taha's Lab](https://taha.eng.uci.edu/)
+- Email: kshita1@uci.edu
 
 <!--
 **thehorizondweller/thehorizondweller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
