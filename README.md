@@ -1,14 +1,7 @@
-### Hi there 👋
-
-I am Kshitij Anand, a fourth year undergraduate at IIT Kharagpur. I am an undergraduate researcher and my current focus lies at an intersection of insect flight aerodynamics and robotic control. I mostly share code solutions to courses I do openly on Github. Most of my project codes are private as of now due to IP obligations. 
-
-[Resume](https://ktj-from-kgp.notion.site/Kshitij-Anand-0a510d310eba4018a17511e31df64361) | [LinkedIn](https://www.linkedin.com/in/kshitij-anand-2720231b1/)
-
-For all formal communications: kshitijanand.iitkgp@gmail.com
-
-You can informally text me on Twitter [@airobofan](https://twitter.com/airobofan) 
-
-I am open to collaborating on research projects in robotics and aerodynamics, and prefer them more if they are experimental. 
+### Kshitij Anand, Doctoral Candiate, MAE, UCI
+[Personal Website](https://sites.google.com/view/kshitijananduci/about)
+[ADCL - Professor Haithem Taha's Lab](https://taha.eng.uci.edu/)
+Email: kshita1@uci.edu
 
 <!--
 **thehorizondweller/thehorizondweller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
